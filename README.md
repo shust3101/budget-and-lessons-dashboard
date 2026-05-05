@@ -79,7 +79,7 @@ Portfolio‑ready documentation
 🖼 Screenshots
 Screenshots of both dashboards are available in the /screenshots folder:
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/budget_dashboard.png)
 
 ![Dashboard](screenshots/lessons_dashboard.png)
 
