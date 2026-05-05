@@ -79,9 +79,9 @@ Portfolio‑ready documentation
 🖼 Screenshots
 Screenshots of both dashboards are available in the /screenshots folder:
 
-budget_dashboard.png
+screenshots/budget_dashboard.png
 
-lessons_dashboard.png
+screenshots/lessons_dashboard.png
 
 📌 About the Project
 This project simulates a real‑world scenario:
